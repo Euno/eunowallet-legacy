@@ -1,6 +1,6 @@
-<p align="center">
-	<img src="https://www.euno.co/wp-content/uploads/eunologoblack.png" />
-</p>
+# The old legacy wallet and blockchain will not be supported after the SWAP end date - 12.Nov.2020 #
+
+
 <p align="center">
 	<h1>EUNO - A privacy based cryptocurrency</h1>
 </p>
